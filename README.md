@@ -1,5 +1,6 @@
 # Kikuch-SLE
 Distinguishing lupus lymphadenitis from Kikuchi disease based on clinicopathological features and C4d immunohistochemistry
+Yu SC et al. Rheumatology. currently under revision
 
 # Prediction of unknown cases
 unknown_case.ipynb
