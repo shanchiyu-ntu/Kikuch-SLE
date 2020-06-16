@@ -4,7 +4,9 @@ Yu SC et al. Rheumatology. currently under revision
 
 # Prediction of unknown cases
 unknown_case.ipynb
+
 Data normalization: sc.pkl
+
 The model recommended: SVMsigmoid.pkl
 
 Please fill in the clinical, histological, C4d IHC parameters in "unknown cases2.csv" and upload the csv file for prediction.
