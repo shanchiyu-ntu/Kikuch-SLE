@@ -6,7 +6,7 @@ unknown_case.ipynb
 Data normalization: sc.pkl
 The model recommended: SVMsigmoid.pkl
 
-Please fill in the clinical, histological, C4d IHC parameters in "unknown case2.csv" and upload the csv file for prediction.
+Please fill in the clinical, histological, C4d IHC parameters in "unknown cases2.csv" and upload the csv file for prediction.
 
 G: diagnosis (which should be empty)
 
