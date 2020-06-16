@@ -7,13 +7,21 @@ Data normalization: sc.pkl
 The model recommended: SVMsigmoid.pkl
 
 Please fill in the clinical, histological, C4d IHC parameters in "unknown case2.csv" and upload the csv file for prediction.
+
 G: diagnosis (which should be empty)
+
 C1: Age (years)
+
 C2: Sex (M: 1; F: 0)
+
 C3: Biopsy site (neck: 1; axillary: 2; inguinal: 3; mediastinal: 4; abdominal: 5; pelvic: 6; other site: 7)
+
 C4: Biopsy method (excision: 1; incisional biopsy: 2; excision: 3)
+
 C5: Fever (presence: 1; absence: 0)
+
 C6: Extent of lymphadenopathy (localized: 1; generalized, confined to one side of the diaphragm: 2; generalized, across the diaphragm: 3)
+
 H1: Area involved (%)
 H2: Pattern (interfollicular: 1; patchy or confluent: 2)
 H3: Hematoxylin bodies (presence: 1; absence: 0)
